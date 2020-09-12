@@ -1,4 +1,4 @@
-# the cafe 
+# The Cafe 
 - [the cafe - w3.template](https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm)
 - [the cafe - codepen](https://codepen.io/dezzy001/pen/BaKYpqP)
 
