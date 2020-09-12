@@ -10,6 +10,7 @@
 
 # Gourmet Restaurant
 - [Gourmet Restaurant - w3.template](https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm)
+- [Gourmet Restaurant - codepen](https://codepen.io/dezzy001/pen/bGpvWzg?editors=1100)
 
 ## What did you learn
 - BEM CSS Methodology
