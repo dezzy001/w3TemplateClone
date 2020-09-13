@@ -1,6 +1,7 @@
 # Cloning w3.CSS Template Websites
 - Goal:
   - To learn HTML & CSS by getting my hands dirty in code
+- [w3.Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 
 ## 1) The Cafe 🍳
 - [the cafe - Original w3.template](https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm)
