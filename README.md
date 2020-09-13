@@ -44,8 +44,14 @@ selector[attribute]{
    - e.g width: 50% on flexbox child, gives 2 equal width columns
 - CSS Media Queries
    - [W3.Reference](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+   - Example:
 ```
 @media (max-width:600px) {
-  /* property */
+  exampleCssSelector{
+    /* CSS Property Here */
+  }
+  body{
+    /* CSS Property Here */
+  }
 }
 ```
