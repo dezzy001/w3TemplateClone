@@ -3,7 +3,7 @@
   - To learn HTML & CSS by getting my hands dirty in code
 
 ## 1) The Cafe 🍳
-- [the cafe - w3.template](https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm)
+- [the cafe - Original w3.template](https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm)
 - [the cafe - codepen](https://codepen.io/dezzy001/pen/BaKYpqP)
 
 ### Learning Outcomes
@@ -29,12 +29,12 @@ selector[attribute]{
 - Use Media Queries, to replicate the website responsive elements
 
 ## 2) Gourmet Restaurant 🍔
-- [Gourmet Restaurant - w3.template](https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm)
+- [Gourmet Restaurant - Original w3.template](https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm)
 - [Gourmet Restaurant - codepen](https://codepen.io/dezzy001/pen/bGpvWzg?editors=1100)
 
 ### Learning Outcomes
 1. Applying Media Queries
-2. Getting more used to CSS Flexbox
+2. Getting more comfortable with CSS Flexbox Layouts
 
 ### What did you learn
 - BEM CSS Methodology
