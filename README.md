@@ -61,18 +61,18 @@ selector[attribute]{
 ```
 
 ## 3) The Band 🎹
-- [x] IN PROGRESS
+- [ ] IN PROGRESS
 - [The Band - Original w3.template](https://www.w3schools.com/w3css/tryw3css_templates_band.htm#)
 - [The Band - codepen](https://www.w3schools.com/w3css/tryw3css_templates_band.htm#)
 
 ### TODO
 - [x] html structure
-- [] css styles + layout
-- [] javascript
-  - [] carousel
-  - [] modal
-- [] Navigation "MORE" dropdown bar
-- [] css media queries (responsiveness)
+- [ ] css styles + layout
+- [ ] javascript
+  - [ ] carousel
+  - [ ] modal
+- [ ] Navigation "MORE" dropdown bar
+- [ ] css media queries (responsiveness)
 
 ### Learning Outcomes
 1. Applying JavaScript Functions for:
