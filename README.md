@@ -38,4 +38,14 @@ selector[attribute]{
 
 ### What did you learn
 - BEM CSS Methodology
-    - [BEM CSS Methodology Docs](http://getbem.com/) 
+    - [BEM CSS Methodology Docs](http://getbem.com/)
+- CSS Flexbox equal columns
+   - Can set width for equal width columns
+   - e.g width: 50% on flexbox child, gives 2 equal width columns
+- CSS Media Queries
+   - [W3.Reference](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+```
+@media (max-width:600px) {
+  /* property */
+}
+```
