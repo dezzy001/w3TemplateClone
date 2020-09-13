@@ -38,6 +38,7 @@ selector[attribute]{
 2. Getting more comfortable with CSS Flexbox Layouts
 
 ### What did you learn
+- Using max-width to control container width can achieve a nice responsive container
 - BEM CSS Methodology
     - [BEM CSS Methodology Docs](http://getbem.com/)
 - CSS Flexbox equal columns
@@ -56,3 +57,16 @@ selector[attribute]{
   }
 }
 ```
+
+## 3) The Band 🎹
+- [The Band - Original w3.template](https://www.w3schools.com/w3css/tryw3css_templates_band.htm#)
+- [The Band - codepen](https://www.w3schools.com/w3css/tryw3css_templates_band.htm#)
+
+### Learning Outcomes
+1. Applying JavaScript Functions for:
+  1. Carousel
+  2. Modal
+2. Applying Basic Media Queries - Responsive Flexbox layouts
+3. Navigation dropdown bar
+
+### What did you learn
