@@ -4,6 +4,7 @@
 - [w3.Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 
 ## 1) The Cafe 🍳
+- [x] DONE
 - [the cafe - Original w3.template](https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm)
 - [the cafe - codepen](https://codepen.io/dezzy001/pen/BaKYpqP)
 
@@ -30,6 +31,7 @@ selector[attribute]{
 - Use Media Queries, to replicate the website responsive elements
 
 ## 2) Gourmet Restaurant 🍔
+- [x] DONE
 - [Gourmet Restaurant - Original w3.template](https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm)
 - [Gourmet Restaurant - codepen](https://codepen.io/dezzy001/pen/bGpvWzg?editors=1100)
 
@@ -59,8 +61,18 @@ selector[attribute]{
 ```
 
 ## 3) The Band 🎹
+- [x] IN PROGRESS
 - [The Band - Original w3.template](https://www.w3schools.com/w3css/tryw3css_templates_band.htm#)
 - [The Band - codepen](https://www.w3schools.com/w3css/tryw3css_templates_band.htm#)
+
+### TODO
+- [x] html structure
+- [] css styles + layout
+- [] javascript
+  - [] carousel
+  - [] modal
+- [] Navigation "MORE" dropdown bar
+- [] css media queries (responsiveness)
 
 ### Learning Outcomes
 1. Applying JavaScript Functions for:
