@@ -7,6 +7,14 @@
     - position absolute will be relative to a parent which has position relative, else will just be relative to the body by default
 - max/min width : [reference](https://www.w3schools.com/css/css_max-width.asp)
     - used max-width for .content-section
+- CSS attribute's are selected using:
+```
+selector[attribute]{
+    property-name: property;
+}
+```
+  - This was required to style the input 'placeholder' attribute.
+  - The attribute doesn't inherit parent properties
 
 # Gourmet Restaurant
 - [Gourmet Restaurant - w3.template](https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm)
