@@ -2,8 +2,7 @@
 - Goal:
   - To learn HTML & CSS by getting my hands dirty in code
 
-
-## The Cafe 🍳
+## 1) The Cafe 🍳
 - [the cafe - w3.template](https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm)
 - [the cafe - codepen](https://codepen.io/dezzy001/pen/BaKYpqP)
 
@@ -29,7 +28,7 @@ selector[attribute]{
 ### What can you Improve?
 - Use Media Queries, to replicate the website responsive elements
 
-## Gourmet Restaurant 🍔
+## 2) Gourmet Restaurant 🍔
 - [Gourmet Restaurant - w3.template](https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm)
 - [Gourmet Restaurant - codepen](https://codepen.io/dezzy001/pen/bGpvWzg?editors=1100)
 
