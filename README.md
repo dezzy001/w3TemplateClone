@@ -43,6 +43,7 @@ selector[attribute]{
 - Using max-width to control container width can achieve a nice responsive container
 - BEM CSS Methodology
     - [BEM CSS Methodology Docs](http://getbem.com/)
+    - [This is a good site with examples of DO's and DON'Ts of BEM](https://seesparkbox.com/foundry/bem_by_example)
 - CSS Flexbox equal columns
    - Can set width for equal width columns
    - e.g width: 50% on flexbox child, gives 2 equal width columns
